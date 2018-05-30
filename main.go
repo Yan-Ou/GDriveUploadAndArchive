@@ -248,13 +248,6 @@ func main() {
 	}
 
 	fmt.Printf("Read file: %s\n", *inputPath)
-	/*outputTitle := *outputFile
-	if outputTitle == "" {
-		outputTitle = filepath.Base(*inputPath)
-	}
-	fmt.Printf("Output name: %s\n", outputTitle)
-
-	ext := filepath.Ext(*inputPath)*/
 
 	uploadFiles := prepareFiles()
 
