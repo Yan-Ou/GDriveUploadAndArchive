@@ -1,5 +1,4 @@
-# GDriveUploadAndArchive
- 
+# Google Drive Uploader
 
 * It uses Google Drive REST API to upload/management the JPG files. https://developers.google.com/drive/api/v2/reference/ 
 
